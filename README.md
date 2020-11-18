@@ -1,5 +1,5 @@
 feature 001
-version=v1.0.0
+version=v1.0.1
 
 ISSO È UMA HOTFIX
 
